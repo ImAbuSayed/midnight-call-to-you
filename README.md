@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/midnight-call-to-you/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Midnight Call To You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/midnight-call-to-you/) |
+| **Get License** | [Music Rights & Licensing for Midnight Call To You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/midnight-call-to-you/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `10a692f588f961ce2e516d8ac04de184d39ab28967ef4d71c9f71cbfcaac08d5` |
 | **Timestamp** | May 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
