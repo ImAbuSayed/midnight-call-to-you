@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/midnight-call-to-you/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Midnight Call To You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/midnight-call-to-you/) |
+| **Get License** | [Commercial Licensing for Midnight Call To You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/midnight-call-to-you/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Shadows dancing on your skin tonight
+> Got me burning in the candlelight
+> Come a little closer to my side
+> Let me be your only midnight ride
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
